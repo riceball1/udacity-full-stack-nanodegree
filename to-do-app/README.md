@@ -14,3 +14,5 @@ Prereq:
 ## Troubleshooting
 - Issue with flask not showing up in vscode 
 `Import "flask" could not be resolved from sourcePylancereportMissingModuleSource`
+    - Check out how to setup flask on macos https://topherpedersen.blog/2019/12/28/how-to-setup-a-new-flask-app-on-a-mac/
+
